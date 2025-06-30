@@ -3,10 +3,10 @@
 A simple tool to generate beautiful color schemes for your apps.
 
 ### Main Page
-![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 1](screenshots/Screenshot01.png)
 
 ### Color Scheme Example
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot02.png)
 
 ## Features
 - Color picker with instant preview
