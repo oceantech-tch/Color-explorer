@@ -19,6 +19,7 @@ A simple tool to generate beautiful color schemes for your apps.
 2. Choose a scheme type
 3. Click "Generate"
 4. Click any color to copy its HEX value
+5. Apply into your applications
 
 ## Try It Out
 [View Live Demo](#) *Incoming...*
