@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Explorer App</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <h1>Color Explorer</h1>
+  <p class="app-description">
+    Discover beautiful color schemes for your projects. Select a base color and scheme type to generate 
+    harmonious color palettes with detailed color information.
+  </p>
+  
+  <div class="color-form">
+    <form id="color-form">
+      <div class="form-group">
+        <label for="color-picker">Base Color:</label>
+        <input type="color" id="color-picker" value="#0047AB" title="Choose your base color">
+      </div>
+      
+      <div class="form-group">
+        <label for="scheme-mode">Color Scheme Type:</label>
+        <select id="scheme-mode" title="Select color harmony rule">
+          <option value="monochrome">Monochrome (Shades of one color)</option>
+          <option value="analogic">Analogic (Adjacent colors)</option>
+          <option value="triad">Triad (Three evenly spaced colors)</option>
+          <option value="complement">Complement (Opposite colors)</option>
+          <option value="quad">Quad (Four colors forming rectangle)</option>
+        </select>
+      </div>
+      
+      <button type="submit" id="generate-btn">Generate Color Scheme</button>
+    </form>
+  </div>
+  
+  <div class="color-info" id="color-info">
+    <p>Select a color and click "Generate" to see detailed color information and scheme.</p>
+  </div>
+  
+  <div id="scheme-container"></div>
+
+  <script src="./scripts.js"></script>
+</body>
+</html>
