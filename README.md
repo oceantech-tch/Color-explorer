@@ -2,7 +2,11 @@
 
 A simple tool to generate beautiful color schemes for your apps.
 
-![App Screenshot](screenshot.png) *(Upload a screenshot later if you want)*
+### Main Page
+![Screenshot 1](screenshots/screenshot1.png)
+
+### Color Scheme Example
+![Screenshot 2](screenshots/screenshot2.png)
 
 ## Features
 - Color picker with instant preview
