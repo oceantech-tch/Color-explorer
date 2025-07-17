@@ -21,9 +21,6 @@ A simple tool to generate beautiful color schemes for your apps.
 4. Click any color to copy its HEX value
 5. Apply into your applications
 
-## Try It Out
-[View Live Demo](#) *Incoming...*
-
 ## For Developers
 ```bash
 git clone https://github.com/your-username/color-explorer.git
