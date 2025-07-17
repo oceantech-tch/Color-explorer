@@ -20,8 +20,3 @@ A simple tool to generate beautiful color schemes for your apps.
 3. Click "Generate"
 4. Click any color to copy its HEX value
 5. Apply into your applications
-
-## For Developers
-```bash
-git clone https://github.com/your-username/color-explorer.git
-open index.html
